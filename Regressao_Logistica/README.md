@@ -1,6 +1,7 @@
-# Trabalho Bimestral - Aprendizado de Máquina Supervisionado - Árvores de Decisão
+# Trabalho Bimestral - Aprendizado de Máquina Supervisionado - Regressao Logística
 
 Link do Repositório:
+https://github.com/Felip-Oliv/Aprendizado-de-M-quina-Supervisionado.git
 
 Link do Dataset:
 
