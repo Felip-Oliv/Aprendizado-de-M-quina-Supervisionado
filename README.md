@@ -1,4 +1,4 @@
-#Trabalho Bimestral - Aprendizado de Máquina Supervisionado - Árvores de Decisão
+# Trabalho Bimestral - Aprendizado de Máquina Supervisionado - Árvores de Decisão
 
 Link do Repositório:
 
@@ -10,13 +10,13 @@ Link do Dicionário de Dados:
 
 https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?resource=download
 
-Integrantes:
+## Integrantes:
 
 Aramis Chang Chain, RGM: 8813440250
 
 Luiz Felipe, RGM: 8813216082
 
-Instituição: Universidade Positivo
+## Instituição: Universidade Positivo
 
 Curso: Sistemas de Informação
 
@@ -24,7 +24,7 @@ Matéria: Data Science
 
 Turma: BSI - Quarta
 
-Professora: https://github.com/marycamila184
+## Professora: https://github.com/marycamila184
 
 Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para prever a intensidade de bebida alcoólica consumida pelos estudantes de matemática dos colégios Gabriel Pereira e Mousinho da Silveira
 
