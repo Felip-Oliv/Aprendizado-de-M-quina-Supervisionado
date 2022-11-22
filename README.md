@@ -26,7 +26,7 @@ Turma: BSI - Quarta
 
 ## Professora: https://github.com/marycamila184
 
-Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para prever a intensidade de bebida alcoólica consumida pelos estudantes de matemática dos colégios Gabriel Pereira e Mousinho da Silveira
+Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para prever a intensidade de bebida alcoólica consumida nos finais de semana pelos estudantes de matemática dos colégios Gabriel Pereira e Mousinho da Silveira
 
 Os dados foram extraídos do site do Kaggle:
 
